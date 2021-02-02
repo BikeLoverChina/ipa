@@ -1,0 +1,1 @@
+require 'ipamaker/command/maker'
